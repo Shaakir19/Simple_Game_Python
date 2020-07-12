@@ -1,0 +1,2 @@
+This python is a python program that is a very simple game that allows the user to move up,down,left and right, this game uses the installed python package called pygame.
+The user is able to win if they get the prize or if the make it to the other side of the game window.
